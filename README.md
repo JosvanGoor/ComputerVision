@@ -7,3 +7,9 @@ align.py als accepts 3 optional flags -p --padding followed by an int, -u --ulim
 
 
 rot_align.py can be called after align.py has been called. It reads files from "output_translation_aligned/" and outputs to "output_rotation_aligned/"
+
+De python packages die we gebruikt hebben zijn de volgende:
+* OpenCV
+* numpy
+* scipy
+* progressbar
