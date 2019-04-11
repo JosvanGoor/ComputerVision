@@ -12,4 +12,4 @@ De python packages die we gebruikt hebben zijn de volgende:
 * OpenCV
 * numpy
 * scipy
-* progressbar
+* progressbar2
